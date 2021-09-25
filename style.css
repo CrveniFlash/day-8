@@ -1,0 +1,8 @@
+.add-anim {
+    opacity: 0.1;
+    scale: 0.5;
+}
+
+.add-transition {
+    transition: all 0.5s ease;
+}
